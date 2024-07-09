@@ -45,9 +45,10 @@ const Navbar = () => {
 						: "hidden"
 				}>
 				<article className="flex flex-col gap-5">
-					<a href="/">About Us</a>
-					<a href="/">Our products</a>
-					<a href="/">Delivery</a>
+				<li>Home</li>
+          <li>About</li>
+          <li>Services</li>
+          <li>Contact</li>
 				</article>
 			</ul>
 
